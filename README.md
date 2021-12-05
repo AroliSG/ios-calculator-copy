@@ -1,6 +1,6 @@
 # ios-calculator-copy react-native
 an exact copy of ios calculator
-create a react-native app 
+> steps to install this sample script
   1. react-native init ios-calculator
   2. react-native run android
   
