@@ -1,4 +1,4 @@
-# ios-calculator-copy
+# ios-calculator-copy react-native
 an exact copy of ios calculator
 create a react-native app 
   1. react-native init ios-calculator
